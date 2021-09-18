@@ -1,0 +1,16 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+#span
+{
+    font-size: 20px;
+}
